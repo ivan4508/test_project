@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'PTRootUI';
+  src: url('~/assets/fonts/PT-Root-UI_Bold/PT-Root-UI_Bold.eot');
+  src:
+    url('~/assets/fonts/PT-Root-UI_Bold/PT-Root-UI_Bold.eot?#iefix')
+      format('embedded-opentype'),
+    url('~/assets/fonts/PT-Root-UI_Bold/PT-Root-UI_Bold.woff2') format('woff2'),
+    url('~/assets/fonts/PT-Root-UI_Bold/PT-Root-UI_Bold.woff') format('woff'),
+    url('~/assets/fonts/PT-Root-UI_Bold/PT-Root-UI_Bold.ttf') format('truetype'),
+    url('~/assets/fonts/PT-Root-UI_Bold/PT-Root-UI_Bold.svg#PTRootUIWeb-Bold')
+      format('svg');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'PTRootUI';
+  src: url('~/assets/fonts/PT-Root-UI_Regular/PT-Root-UI_Regular.eot');
+  src:
+    url('~/assets/fonts/PT-Root-UI_Regular/PT-Root-UI_Regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('~/assets/fonts/PT-Root-UI_Regular/PT-Root-UI_Regular.woff2')
+      format('woff2'),
+    url('~/assets/fonts/PT-Root-UI_Regular/PT-Root-UI_Regular.woff')
+      format('woff'),
+    url('~/assets/fonts/PT-Root-UI_Regular/PT-Root-UI_Regular.ttf')
+      format('truetype'),
+    url('~/assets/fonts/PT-Root-UI_Regular/PT-Root-UI_Regular.svg#PTRootUIWeb-Regular')
+      format('svg');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'PTRootUI';
+  src: url('~/assets/fonts/PT-Root-UI_Medium/PT-Root-UI_Medium.eot');
+  src:
+    url('~/assets/fonts/PT-Root-UI_Medium/PT-Root-UI_Medium.eot?#iefix')
+      format('embedded-opentype'),
+    url('~/assets/fonts/PT-Root-UI_Medium/PT-Root-UI_Medium.woff2')
+      format('woff2'),
+    url('~/assets/fonts/PT-Root-UI_Medium/PT-Root-UI_Medium.woff')
+      format('woff'),
+    url('~/assets/fonts/PT-Root-UI_Medium/PT-Root-UI_Medium.ttf')
+      format('truetype'),
+    url('~/assets/fonts/PT-Root-UI_Medium/PT-Root-UI_Medium.svg#PTRootUIWeb-Medium')
+      format('svg');
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}

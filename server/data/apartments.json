@@ -1,0 +1,1542 @@
+[
+  {
+    "id": 1,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №105",
+    "totalRooms": 1,
+    "footage": 45,
+    "floor": 5,
+    "totalFloor": 25,
+    "price": 2500000
+  },
+  {
+    "id": 2,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №106",
+    "totalRooms": 2,
+    "footage": 65,
+    "floor": 8,
+    "totalFloor": 25,
+    "price": 3800000
+  },
+  {
+    "id": 3,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №107",
+    "totalRooms": 3,
+    "footage": 85,
+    "floor": 12,
+    "totalFloor": 25,
+    "price": 5200000
+  },
+  {
+    "id": 4,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №108",
+    "totalRooms": 3,
+    "footage": 30,
+    "floor": 3,
+    "totalFloor": 25,
+    "price": 1800000
+  },
+  {
+    "id": 5,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №109",
+    "totalRooms": 1,
+    "footage": 42,
+    "floor": 6,
+    "totalFloor": 25,
+    "price": 2400000
+  },
+  {
+    "id": 6,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №110",
+    "totalRooms": 2,
+    "footage": 68,
+    "floor": 9,
+    "totalFloor": 25,
+    "price": 3900000
+  },
+  {
+    "id": 7,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №111",
+    "totalRooms": 3,
+    "footage": 88,
+    "floor": 15,
+    "totalFloor": 25,
+    "price": 5400000
+  },
+  {
+    "id": 8,
+    "urlRoomsPlan": "test.png",
+    "title": "4-комнатная №112",
+    "totalRooms": 4,
+    "footage": 38,
+    "floor": 4,
+    "totalFloor": 25,
+    "price": 2200000
+  },
+  {
+    "id": 9,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №113",
+    "totalRooms": 2,
+    "footage": 72,
+    "floor": 10,
+    "totalFloor": 25,
+    "price": 4100000
+  },
+  {
+    "id": 10,
+    "urlRoomsPlan": "test.png",
+    "title": "4-комнатная №114",
+    "totalRooms": 4,
+    "footage": 92,
+    "floor": 18,
+    "totalFloor": 25,
+    "price": 5600000
+  },
+  {
+    "id": 11,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №115",
+    "totalRooms": 1,
+    "footage": 40,
+    "floor": 7,
+    "totalFloor": 25,
+    "price": 2300000
+  },
+  {
+    "id": 12,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №116",
+    "totalRooms": 2,
+    "footage": 70,
+    "floor": 11,
+    "totalFloor": 25,
+    "price": 4000000
+  },
+  {
+    "id": 13,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №117",
+    "totalRooms": 3,
+    "footage": 90,
+    "floor": 16,
+    "totalFloor": 25,
+    "price": 5500000
+  },
+  {
+    "id": 14,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №118",
+    "totalRooms": 1,
+    "footage": 43,
+    "floor": 5,
+    "totalFloor": 25,
+    "price": 2450000
+  },
+  {
+    "id": 15,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №119",
+    "totalRooms": 2,
+    "footage": 66,
+    "floor": 8,
+    "totalFloor": 25,
+    "price": 3850000
+  },
+  {
+    "id": 16,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №120",
+    "totalRooms": 3,
+    "footage": 86,
+    "floor": 13,
+    "totalFloor": 25,
+    "price": 5250000
+  },
+  {
+    "id": 17,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №121",
+    "totalRooms": 1,
+    "footage": 41,
+    "floor": 6,
+    "totalFloor": 25,
+    "price": 2350000
+  },
+  {
+    "id": 18,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №122",
+    "totalRooms": 2,
+    "footage": 69,
+    "floor": 9,
+    "totalFloor": 25,
+    "price": 3950000
+  },
+  {
+    "id": 19,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №123",
+    "totalRooms": 3,
+    "footage": 89,
+    "floor": 14,
+    "totalFloor": 25,
+    "price": 5450000
+  },
+  {
+    "id": 20,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №124",
+    "totalRooms": 1,
+    "footage": 44,
+    "floor": 7,
+    "totalFloor": 25,
+    "price": 2550000
+  },
+  {
+    "id": 21,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №125",
+    "totalRooms": 2,
+    "footage": 67,
+    "floor": 10,
+    "totalFloor": 25,
+    "price": 3850000
+  },
+  {
+    "id": 22,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №126",
+    "totalRooms": 3,
+    "footage": 87,
+    "floor": 15,
+    "totalFloor": 25,
+    "price": 5300000
+  },
+  {
+    "id": 23,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №127",
+    "totalRooms": 1,
+    "footage": 39,
+    "floor": 4,
+    "totalFloor": 25,
+    "price": 2250000
+  },
+  {
+    "id": 24,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №128",
+    "totalRooms": 2,
+    "footage": 71,
+    "floor": 11,
+    "totalFloor": 25,
+    "price": 4050000
+  },
+  {
+    "id": 25,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №129",
+    "totalRooms": 3,
+    "footage": 91,
+    "floor": 17,
+    "totalFloor": 25,
+    "price": 5550000
+  },
+  {
+    "id": 26,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №130",
+    "totalRooms": 1,
+    "footage": 46,
+    "floor": 8,
+    "totalFloor": 25,
+    "price": 2600000
+  },
+  {
+    "id": 27,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №131",
+    "totalRooms": 2,
+    "footage": 64,
+    "floor": 12,
+    "totalFloor": 25,
+    "price": 3700000
+  },
+  {
+    "id": 28,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №132",
+    "totalRooms": 3,
+    "footage": 84,
+    "floor": 19,
+    "totalFloor": 25,
+    "price": 5100000
+  },
+  {
+    "id": 29,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №133",
+    "totalRooms": 1,
+    "footage": 47,
+    "floor": 9,
+    "totalFloor": 25,
+    "price": 2650000
+  },
+  {
+    "id": 30,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №134",
+    "totalRooms": 2,
+    "footage": 63,
+    "floor": 13,
+    "totalFloor": 25,
+    "price": 3650000
+  },
+  {
+    "id": 31,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №135",
+    "totalRooms": 3,
+    "footage": 83,
+    "floor": 20,
+    "totalFloor": 25,
+    "price": 5050000
+  },
+  {
+    "id": 32,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №136",
+    "totalRooms": 1,
+    "footage": 48,
+    "floor": 10,
+    "totalFloor": 25,
+    "price": 2700000
+  },
+  {
+    "id": 33,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №137",
+    "totalRooms": 2,
+    "footage": 62,
+    "floor": 14,
+    "totalFloor": 25,
+    "price": 3600000
+  },
+  {
+    "id": 34,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №138",
+    "totalRooms": 3,
+    "footage": 82,
+    "floor": 21,
+    "totalFloor": 25,
+    "price": 5000000
+  },
+  {
+    "id": 35,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №139",
+    "totalRooms": 1,
+    "footage": 49,
+    "floor": 11,
+    "totalFloor": 25,
+    "price": 2750000
+  },
+  {
+    "id": 36,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №140",
+    "totalRooms": 2,
+    "footage": 61,
+    "floor": 15,
+    "totalFloor": 25,
+    "price": 3550000
+  },
+  {
+    "id": 37,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №141",
+    "totalRooms": 3,
+    "footage": 81,
+    "floor": 22,
+    "totalFloor": 25,
+    "price": 4950000
+  },
+  {
+    "id": 38,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №142",
+    "totalRooms": 1,
+    "footage": 50,
+    "floor": 12,
+    "totalFloor": 25,
+    "price": 2800000
+  },
+  {
+    "id": 39,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №143",
+    "totalRooms": 2,
+    "footage": 60,
+    "floor": 16,
+    "totalFloor": 25,
+    "price": 3500000
+  },
+  {
+    "id": 40,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №144",
+    "totalRooms": 3,
+    "footage": 80,
+    "floor": 23,
+    "totalFloor": 25,
+    "price": 4900000
+  },
+  {
+    "id": 41,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №145",
+    "totalRooms": 1,
+    "footage": 51,
+    "floor": 13,
+    "totalFloor": 25,
+    "price": 2850000
+  },
+  {
+    "id": 42,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №146",
+    "totalRooms": 2,
+    "footage": 59,
+    "floor": 17,
+    "totalFloor": 25,
+    "price": 3450000
+  },
+  {
+    "id": 43,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №147",
+    "totalRooms": 3,
+    "footage": 79,
+    "floor": 24,
+    "totalFloor": 25,
+    "price": 4850000
+  },
+  {
+    "id": 44,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №148",
+    "totalRooms": 1,
+    "footage": 52,
+    "floor": 14,
+    "totalFloor": 25,
+    "price": 2900000
+  },
+  {
+    "id": 45,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №149",
+    "totalRooms": 2,
+    "footage": 58,
+    "floor": 18,
+    "totalFloor": 25,
+    "price": 3400000
+  },
+  {
+    "id": 46,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №150",
+    "totalRooms": 3,
+    "footage": 78,
+    "floor": 25,
+    "totalFloor": 25,
+    "price": 4800000
+  },
+  {
+    "id": 47,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №151",
+    "totalRooms": 1,
+    "footage": 53,
+    "floor": 15,
+    "totalFloor": 25,
+    "price": 2950000
+  },
+  {
+    "id": 48,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №152",
+    "totalRooms": 2,
+    "footage": 57,
+    "floor": 19,
+    "totalFloor": 25,
+    "price": 3350000
+  },
+  {
+    "id": 49,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №153",
+    "totalRooms": 3,
+    "footage": 77,
+    "floor": 26,
+    "totalFloor": 25,
+    "price": 4750000
+  },
+  {
+    "id": 50,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №154",
+    "totalRooms": 1,
+    "footage": 54,
+    "floor": 16,
+    "totalFloor": 25,
+    "price": 3000000
+  },
+  {
+    "id": 51,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №155",
+    "totalRooms": 2,
+    "footage": 56,
+    "floor": 20,
+    "totalFloor": 25,
+    "price": 3300000
+  },
+  {
+    "id": 52,
+    "urlRoomsPlan": "test.png",
+    "title": "3-комнатная №156",
+    "totalRooms": 3,
+    "footage": 76,
+    "floor": 27,
+    "totalFloor": 25,
+    "price": 4700000
+  },
+  {
+    "id": 53,
+    "urlRoomsPlan": "test.png",
+    "title": "1-комнатная №157",
+    "totalRooms": 1,
+    "footage": 55,
+    "floor": 17,
+    "totalFloor": 25,
+    "price": 3050000
+  },
+  {
+    "id": 54,
+    "urlRoomsPlan": "test.png",
+    "title": "2-комнатная №158",
+    "totalRooms": 2,
+    "footage": 55,
+    "floor": 21,
+    "totalFloor": 25,
+    "price": 3250000
+  },
+  {
+    "id": 55,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №155",
+    "totalRooms": 2,
+    "footage": 162,
+    "floor": 23,
+    "totalFloor": 25,
+    "price": 2916183
+  },
+  {
+    "id": 56,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №156",
+    "totalRooms": 1,
+    "footage": 129,
+    "floor": 4,
+    "totalFloor": 25,
+    "price": 2191683
+  },
+  {
+    "id": 57,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №157",
+    "totalRooms": 2,
+    "footage": 200,
+    "floor": 22,
+    "totalFloor": 25,
+    "price": 4388961
+  },
+  {
+    "id": 58,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №158",
+    "totalRooms": 4,
+    "footage": 107,
+    "floor": 21,
+    "totalFloor": 25,
+    "price": 8333790
+  },
+  {
+    "id": 59,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №159",
+    "totalRooms": 1,
+    "footage": 150,
+    "floor": 17,
+    "totalFloor": 25,
+    "price": 1445731
+  },
+  {
+    "id": 60,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №160",
+    "totalRooms": 3,
+    "footage": 50,
+    "floor": 5,
+    "totalFloor": 25,
+    "price": 4990041
+  },
+  {
+    "id": 61,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №161",
+    "totalRooms": 1,
+    "footage": 159,
+    "floor": 4,
+    "totalFloor": 25,
+    "price": 4640911
+  },
+  {
+    "id": 62,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №162",
+    "totalRooms": 4,
+    "footage": 45,
+    "floor": 1,
+    "totalFloor": 25,
+    "price": 3812580
+  },
+  {
+    "id": 63,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №163",
+    "totalRooms": 3,
+    "footage": 113,
+    "floor": 9,
+    "totalFloor": 25,
+    "price": 4282090
+  },
+  {
+    "id": 64,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №164",
+    "totalRooms": 4,
+    "footage": 162,
+    "floor": 12,
+    "totalFloor": 25,
+    "price": 4973122
+  },
+  {
+    "id": 65,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №165",
+    "totalRooms": 4,
+    "footage": 153,
+    "floor": 2,
+    "totalFloor": 25,
+    "price": 7936689
+  },
+  {
+    "id": 66,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №166",
+    "totalRooms": 3,
+    "footage": 146,
+    "floor": 18,
+    "totalFloor": 25,
+    "price": 5728638
+  },
+  {
+    "id": 67,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №167",
+    "totalRooms": 3,
+    "footage": 110,
+    "floor": 24,
+    "totalFloor": 25,
+    "price": 4151374
+  },
+  {
+    "id": 68,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №168",
+    "totalRooms": 3,
+    "footage": 20,
+    "floor": 11,
+    "totalFloor": 25,
+    "price": 30425957
+  },
+  {
+    "id": 69,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №169",
+    "totalRooms": 3,
+    "footage": 73,
+    "floor": 22,
+    "totalFloor": 25,
+    "price": 14205756
+  },
+  {
+    "id": 70,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №170",
+    "totalRooms": 4,
+    "footage": 147,
+    "floor": 11,
+    "totalFloor": 25,
+    "price": 8454843
+  },
+  {
+    "id": 71,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №171",
+    "totalRooms": 3,
+    "footage": 113,
+    "floor": 17,
+    "totalFloor": 25,
+    "price": 4946645
+  },
+  {
+    "id": 72,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №172",
+    "totalRooms": 1,
+    "footage": 143,
+    "floor": 2,
+    "totalFloor": 25,
+    "price": 2025326
+  },
+  {
+    "id": 73,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №173",
+    "totalRooms": 4,
+    "footage": 186,
+    "floor": 22,
+    "totalFloor": 25,
+    "price": 7319718
+  },
+  {
+    "id": 74,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №174",
+    "totalRooms": 3,
+    "footage": 146,
+    "floor": 25,
+    "totalFloor": 25,
+    "price": 6424142
+  },
+  {
+    "id": 75,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №175",
+    "totalRooms": 4,
+    "footage": 84,
+    "floor": 7,
+    "totalFloor": 25,
+    "price": 8331849
+  },
+  {
+    "id": 76,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №176",
+    "totalRooms": 4,
+    "footage": 155,
+    "floor": 8,
+    "totalFloor": 25,
+    "price": 8440218
+  },
+  {
+    "id": 77,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №177",
+    "totalRooms": 2,
+    "footage": 32,
+    "floor": 12,
+    "totalFloor": 25,
+    "price": 3919563
+  },
+  {
+    "id": 78,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №178",
+    "totalRooms": 3,
+    "footage": 30,
+    "floor": 20,
+    "totalFloor": 25,
+    "price": 4754242
+  },
+  {
+    "id": 79,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №179",
+    "totalRooms": 3,
+    "footage": 27,
+    "floor": 1,
+    "totalFloor": 25,
+    "price": 5116926
+  },
+  {
+    "id": 80,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №180",
+    "totalRooms": 4,
+    "footage": 142,
+    "floor": 25,
+    "totalFloor": 25,
+    "price": 6029410
+  },
+  {
+    "id": 81,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №181",
+    "totalRooms": 1,
+    "footage": 191,
+    "floor": 1,
+    "totalFloor": 25,
+    "price": 1737969
+  },
+  {
+    "id": 82,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №182",
+    "totalRooms": 2,
+    "footage": 39,
+    "floor": 21,
+    "totalFloor": 25,
+    "price": 3284944
+  },
+  {
+    "id": 83,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №183",
+    "totalRooms": 3,
+    "footage": 135,
+    "floor": 19,
+    "totalFloor": 25,
+    "price": 3839640
+  },
+  {
+    "id": 84,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №184",
+    "totalRooms": 3,
+    "footage": 178,
+    "floor": 10,
+    "totalFloor": 25,
+    "price": 4569016
+  },
+  {
+    "id": 85,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №185",
+    "totalRooms": 1,
+    "footage": 130,
+    "floor": 24,
+    "totalFloor": 25,
+    "price": 2261178
+  },
+  {
+    "id": 86,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №186",
+    "totalRooms": 1,
+    "footage": 176,
+    "floor": 18,
+    "totalFloor": 25,
+    "price": 2383739
+  },
+  {
+    "id": 87,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №187",
+    "totalRooms": 1,
+    "footage": 77,
+    "floor": 21,
+    "totalFloor": 25,
+    "price": 1932028
+  },
+  {
+    "id": 88,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №188",
+    "totalRooms": 4,
+    "footage": 138,
+    "floor": 7,
+    "totalFloor": 25,
+    "price": 5374610
+  },
+  {
+    "id": 89,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №189",
+    "totalRooms": 4,
+    "footage": 160,
+    "floor": 25,
+    "totalFloor": 25,
+    "price": 8427018
+  },
+  {
+    "id": 90,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №190",
+    "totalRooms": 4,
+    "footage": 37,
+    "floor": 8,
+    "totalFloor": 25,
+    "price": 8197407
+  },
+  {
+    "id": 91,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №191",
+    "totalRooms": 3,
+    "footage": 53,
+    "floor": 3,
+    "totalFloor": 25,
+    "price": 4123308
+  },
+  {
+    "id": 92,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №192",
+    "totalRooms": 1,
+    "footage": 47,
+    "floor": 6,
+    "totalFloor": 25,
+    "price": 1912838
+  },
+  {
+    "id": 93,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №193",
+    "totalRooms": 4,
+    "footage": 172,
+    "floor": 25,
+    "totalFloor": 25,
+    "price": 6438668
+  },
+  {
+    "id": 94,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №194",
+    "totalRooms": 4,
+    "footage": 103,
+    "floor": 6,
+    "totalFloor": 25,
+    "price": 7108823
+  },
+  {
+    "id": 95,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №195",
+    "totalRooms": 3,
+    "footage": 100,
+    "floor": 4,
+    "totalFloor": 25,
+    "price": 4576857
+  },
+  {
+    "id": 96,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №196",
+    "totalRooms": 2,
+    "footage": 140,
+    "floor": 14,
+    "totalFloor": 25,
+    "price": 2871146
+  },
+  {
+    "id": 97,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №197",
+    "totalRooms": 1,
+    "footage": 114,
+    "floor": 14,
+    "totalFloor": 25,
+    "price": 2049364
+  },
+  {
+    "id": 98,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №198",
+    "totalRooms": 2,
+    "footage": 118,
+    "floor": 16,
+    "totalFloor": 25,
+    "price": 2677603
+  },
+  {
+    "id": 99,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №199",
+    "totalRooms": 4,
+    "footage": 115,
+    "floor": 3,
+    "totalFloor": 25,
+    "price": 6088381
+  },
+  {
+    "id": 100,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №200",
+    "totalRooms": 4,
+    "footage": 100,
+    "floor": 5,
+    "totalFloor": 25,
+    "price": 8013471
+  },
+  {
+    "id": 101,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №201",
+    "totalRooms": 4,
+    "footage": 52,
+    "floor": 2,
+    "totalFloor": 25,
+    "price": 6807817
+  },
+  {
+    "id": 102,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №202",
+    "totalRooms": 1,
+    "footage": 43,
+    "floor": 7,
+    "totalFloor": 25,
+    "price": 2000437
+  },
+  {
+    "id": 103,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №203",
+    "totalRooms": 2,
+    "footage": 98,
+    "floor": 10,
+    "totalFloor": 25,
+    "price": 4324044
+  },
+  {
+    "id": 104,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №204",
+    "totalRooms": 1,
+    "footage": 139,
+    "floor": 7,
+    "totalFloor": 25,
+    "price": 1951612
+  },
+  {
+    "id": 105,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №205",
+    "totalRooms": 4,
+    "footage": 107,
+    "floor": 1,
+    "totalFloor": 25,
+    "price": 6429783
+  },
+  {
+    "id": 106,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №206",
+    "totalRooms": 2,
+    "footage": 60,
+    "floor": 7,
+    "totalFloor": 25,
+    "price": 3008609
+  },
+  {
+    "id": 107,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №207",
+    "totalRooms": 4,
+    "footage": 31,
+    "floor": 16,
+    "totalFloor": 25,
+    "price": 7266415
+  },
+  {
+    "id": 108,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №208",
+    "totalRooms": 1,
+    "footage": 61,
+    "floor": 2,
+    "totalFloor": 25,
+    "price": 2537923
+  },
+  {
+    "id": 109,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №209",
+    "totalRooms": 3,
+    "footage": 77,
+    "floor": 10,
+    "totalFloor": 25,
+    "price": 3526924
+  },
+  {
+    "id": 110,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №210",
+    "totalRooms": 3,
+    "footage": 84,
+    "floor": 8,
+    "totalFloor": 25,
+    "price": 5556356
+  },
+  {
+    "id": 111,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №211",
+    "totalRooms": 2,
+    "footage": 183,
+    "floor": 23,
+    "totalFloor": 25,
+    "price": 4540993
+  },
+  {
+    "id": 112,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №212",
+    "totalRooms": 4,
+    "footage": 120,
+    "floor": 14,
+    "totalFloor": 25,
+    "price": 5074241
+  },
+  {
+    "id": 113,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №213",
+    "totalRooms": 1,
+    "footage": 114,
+    "floor": 1,
+    "totalFloor": 25,
+    "price": 1874616
+  },
+  {
+    "id": 114,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №214",
+    "totalRooms": 2,
+    "footage": 155,
+    "floor": 12,
+    "totalFloor": 25,
+    "price": 4021768
+  },
+  {
+    "id": 115,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №215",
+    "totalRooms": 2,
+    "footage": 142,
+    "floor": 15,
+    "totalFloor": 25,
+    "price": 2632164
+  },
+  {
+    "id": 116,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №216",
+    "totalRooms": 1,
+    "footage": 106,
+    "floor": 4,
+    "totalFloor": 25,
+    "price": 2008300
+  },
+  {
+    "id": 117,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №217",
+    "totalRooms": 1,
+    "footage": 77,
+    "floor": 16,
+    "totalFloor": 25,
+    "price": 1484454
+  },
+  {
+    "id": 118,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №218",
+    "totalRooms": 2,
+    "footage": 91,
+    "floor": 13,
+    "totalFloor": 25,
+    "price": 2503477
+  },
+  {
+    "id": 119,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №219",
+    "totalRooms": 2,
+    "footage": 52,
+    "floor": 4,
+    "totalFloor": 25,
+    "price": 3597007
+  },
+  {
+    "id": 120,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №220",
+    "totalRooms": 3,
+    "footage": 71,
+    "floor": 19,
+    "totalFloor": 25,
+    "price": 3902785
+  },
+  {
+    "id": 121,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №221",
+    "totalRooms": 4,
+    "footage": 99,
+    "floor": 24,
+    "totalFloor": 25,
+    "price": 7108230
+  },
+  {
+    "id": 122,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №222",
+    "totalRooms": 4,
+    "footage": 78,
+    "floor": 11,
+    "totalFloor": 25,
+    "price": 7954585
+  },
+  {
+    "id": 123,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №223",
+    "totalRooms": 2,
+    "footage": 115,
+    "floor": 5,
+    "totalFloor": 25,
+    "price": 4524399
+  },
+  {
+    "id": 124,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №224",
+    "totalRooms": 4,
+    "footage": 93,
+    "floor": 1,
+    "totalFloor": 25,
+    "price": 7041473
+  },
+  {
+    "id": 125,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №225",
+    "totalRooms": 2,
+    "footage": 110,
+    "floor": 8,
+    "totalFloor": 25,
+    "price": 3240876
+  },
+  {
+    "id": 126,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №226",
+    "totalRooms": 3,
+    "footage": 107,
+    "floor": 22,
+    "totalFloor": 25,
+    "price": 3996176
+  },
+  {
+    "id": 127,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №227",
+    "totalRooms": 1,
+    "footage": 90,
+    "floor": 15,
+    "totalFloor": 25,
+    "price": 2079505
+  },
+  {
+    "id": 128,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №228",
+    "totalRooms": 3,
+    "footage": 180,
+    "floor": 9,
+    "totalFloor": 25,
+    "price": 5927420
+  },
+  {
+    "id": 129,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №229",
+    "totalRooms": 2,
+    "footage": 93,
+    "floor": 4,
+    "totalFloor": 25,
+    "price": 2889654
+  },
+  {
+    "id": 130,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №230",
+    "totalRooms": 2,
+    "footage": 97,
+    "floor": 4,
+    "totalFloor": 25,
+    "price": 3166401
+  },
+  {
+    "id": 131,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №231",
+    "totalRooms": 2,
+    "footage": 91,
+    "floor": 1,
+    "totalFloor": 25,
+    "price": 2710838
+  },
+  {
+    "id": 132,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №232",
+    "totalRooms": 1,
+    "footage": 154,
+    "floor": 20,
+    "totalFloor": 25,
+    "price": 1904332
+  },
+  {
+    "id": 133,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №233",
+    "totalRooms": 1,
+    "footage": 185,
+    "floor": 13,
+    "totalFloor": 25,
+    "price": 2571942
+  },
+  {
+    "id": 134,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №234",
+    "totalRooms": 1,
+    "footage": 119,
+    "floor": 14,
+    "totalFloor": 25,
+    "price": 2331641
+  },
+  {
+    "id": 135,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №235",
+    "totalRooms": 3,
+    "footage": 158,
+    "floor": 23,
+    "totalFloor": 25,
+    "price": 5325518
+  },
+  {
+    "id": 136,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №236",
+    "totalRooms": 2,
+    "footage": 80,
+    "floor": 23,
+    "totalFloor": 25,
+    "price": 2996533
+  },
+  {
+    "id": 137,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №237",
+    "totalRooms": 1,
+    "footage": 169,
+    "floor": 4,
+    "totalFloor": 25,
+    "price": 2026294
+  },
+  {
+    "id": 138,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №238",
+    "totalRooms": 1,
+    "footage": 46,
+    "floor": 22,
+    "totalFloor": 25,
+    "price": 2198856
+  },
+  {
+    "id": 139,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №239",
+    "totalRooms": 4,
+    "footage": 44,
+    "floor": 20,
+    "totalFloor": 25,
+    "price": 8254165
+  },
+  {
+    "id": 140,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №240",
+    "totalRooms": 4,
+    "footage": 196,
+    "floor": 7,
+    "totalFloor": 25,
+    "price": 8189676
+  },
+  {
+    "id": 141,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №241",
+    "totalRooms": 3,
+    "footage": 152,
+    "floor": 24,
+    "totalFloor": 25,
+    "price": 6238640
+  },
+  {
+    "id": 142,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №242",
+    "totalRooms": 1,
+    "footage": 142,
+    "floor": 6,
+    "totalFloor": 25,
+    "price": 1815345
+  },
+  {
+    "id": 143,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №243",
+    "totalRooms": 3,
+    "footage": 70,
+    "floor": 5,
+    "totalFloor": 25,
+    "price": 5772667
+  },
+  {
+    "id": 144,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №244",
+    "totalRooms": 2,
+    "footage": 198,
+    "floor": 14,
+    "totalFloor": 25,
+    "price": 3151370
+  },
+  {
+    "id": 145,
+    "urlRoomsPlan": "test.png",
+    "title": "однокомнатная №245",
+    "totalRooms": 1,
+    "footage": 123,
+    "floor": 15,
+    "totalFloor": 25,
+    "price": 2088683
+  },
+  {
+    "id": 146,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №246",
+    "totalRooms": 2,
+    "footage": 43,
+    "floor": 7,
+    "totalFloor": 25,
+    "price": 3732654
+  },
+  {
+    "id": 147,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №247",
+    "totalRooms": 4,
+    "footage": 82,
+    "floor": 14,
+    "totalFloor": 25,
+    "price": 4908007
+  },
+  {
+    "id": 148,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №248",
+    "totalRooms": 3,
+    "footage": 166,
+    "floor": 22,
+    "totalFloor": 25,
+    "price": 5742734
+  },
+  {
+    "id": 149,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №249",
+    "totalRooms": 4,
+    "footage": 96,
+    "floor": 24,
+    "totalFloor": 25,
+    "price": 5502552
+  },
+  {
+    "id": 150,
+    "urlRoomsPlan": "test.png",
+    "title": "двухкомнатная №250",
+    "totalRooms": 2,
+    "footage": 56,
+    "floor": 18,
+    "totalFloor": 25,
+    "price": 3512884
+  },
+  {
+    "id": 151,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №251",
+    "totalRooms": 4,
+    "footage": 84,
+    "floor": 16,
+    "totalFloor": 25,
+    "price": 5129107
+  },
+  {
+    "id": 152,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №252",
+    "totalRooms": 3,
+    "footage": 67,
+    "floor": 3,
+    "totalFloor": 25,
+    "price": 4721373
+  },
+  {
+    "id": 153,
+    "urlRoomsPlan": "test.png",
+    "title": "четырехкомнатная №253",
+    "totalRooms": 4,
+    "footage": 79,
+    "floor": 17,
+    "totalFloor": 25,
+    "price": 6949088
+  },
+  {
+    "id": 154,
+    "urlRoomsPlan": "test.png",
+    "title": "трехкомнатная №254",
+    "totalRooms": 3,
+    "footage": 138,
+    "floor": 18,
+    "totalFloor": 25,
+    "price": 4929725
+  }
+]

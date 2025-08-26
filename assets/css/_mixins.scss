@@ -1,0 +1,205 @@
+@use 'variables' as *;
+$mobile-breakpoint: 1440px;
+// Mobile visibility mixins
+@mixin mobile-visibility {
+  display: none;
+
+  @media (max-width: $mobile-breakpoint) {
+    display: block;
+  }
+}
+
+@mixin mobile-hidden {
+  @media (max-width: $mobile-breakpoint) {
+    display: none;
+  }
+}
+
+// Apartment item mobile styles
+@mixin apartment-item-mobile {
+  display: $apartment-item-display;
+  flex-wrap: $apartment-item-flex-wrap;
+  position: $apartment-item-position;
+  width: $apartment-item-width;
+  gap: $apartment-item-gap;
+  padding: $apartment-item-padding;
+  box-shadow: none;
+  border: 1px solid $border-color;
+  border-radius: $apartment-item-border-radius;
+  margin-top: $apartment-item-margin-top;
+  min-height: $apartment-item-min-height;
+  box-sizing: $apartment-item-box-sizing;
+}
+
+// Mobile typography mixin
+@mixin mobile-text($weight: $mobile-font-weight-medium) {
+  font-size: $mobile-font-size;
+  font-weight: $weight;
+}
+
+// Apartment item info mobile
+@mixin apartment-item-info-mobile {
+  width: 100%;
+}
+
+// Floor plan positioning
+@mixin floor-plan-mobile {
+  position: absolute;
+  right: $apartment-item-right-position;
+}
+
+// Base text mixin
+@mixin base-text {
+  font-size: $base-font-size;
+  color: $primary-color;
+}
+
+// Button styles
+@mixin button-base {
+  cursor: pointer;
+  border: none;
+  transition: $transition-base;
+}
+
+@mixin room-button {
+  @include base-text;
+  @include button-base;
+  font-weight: $font-weight-regular;
+  background: $white-color;
+  border-radius: $button-border-radius;
+  padding: 10px 12px;
+  width: 44px;
+  height: 44px;
+
+  &.active:not(:disabled) {
+    background: $slider-active;
+    color: $white-color;
+  }
+
+  &:hover:not(.active) {
+    background: $light-gray;
+  }
+
+  &:disabled {
+    opacity: $light-opacity;
+    cursor: not-allowed;
+    background: $light-gray;
+  }
+}
+
+@mixin load-more-button {
+  @include base-text;
+  @include button-base;
+  font-weight: $font-weight-medium;
+  padding: 8px 24px;
+  border: 1px solid $border-opacity;
+  border-radius: $load-more-border-radius;
+  background: none;
+}
+
+@mixin reset-button {
+  font-weight: $font-weight-regular;
+  font-size: $reset-button-font-size;
+  color: $black-color;
+  @include button-base;
+  background: none;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  display: inline-block;
+  margin-left: 14px;
+
+  &:hover {
+    color: $slider-hover;
+  }
+
+  &:disabled {
+    opacity: $light-opacity;
+    cursor: not-allowed;
+    color: $medium-gray;
+  }
+}
+
+// Slider styles
+@mixin slider-thumb {
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: $slider-thumb-radius;
+  background: $slider-active;
+  cursor: pointer;
+  pointer-events: auto;
+  border: none;
+  box-shadow: $slider-shadow;
+  transform: translate(-2px, -4px);
+}
+
+@mixin slider-thumb-disabled {
+  background: $medium-gray;
+  cursor: not-allowed;
+}
+
+// Grid layouts
+@mixin apartments-grid {
+  display: grid;
+  grid-template-columns: $apartments-grid-columns;
+  grid-template-rows: auto 1fr;
+  grid-template-areas: $apartments-grid-areas;
+}
+
+@mixin apartment-list-grid {
+  display: grid;
+  grid-template-columns: $apartment-list-grid-columns;
+  grid-template-rows: 1fr;
+  gap: 0;
+  box-shadow: $box-shadow-light;
+}
+
+// Filter styles
+@mixin filter-gradient {
+  background: linear-gradient(
+    135deg,
+    $filter-gradient-start 0%,
+    $filter-gradient-end 100%
+  );
+}
+
+// Typography mixins
+@mixin label-text {
+  font-weight: $font-weight-bold;
+  font-size: $label-font-size;
+  color: $primary-color;
+}
+
+@mixin header-cell-text {
+  font-weight: $font-weight-regular;
+  font-size: $header-cell-font-size;
+  color: $primary-color;
+}
+
+@mixin filter-label-text {
+  font-size: $filter-label-font-size;
+  font-weight: $font-weight-regular;
+  color: $primary-color;
+  display: inline-block;
+  margin-bottom: 6px;
+}
+
+@mixin range-value-text {
+  color: $secondary-color;
+  font-size: $range-value-font-size;
+  font-weight: $font-weight-regular;
+}
+
+// Utility mixins
+@mixin visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}

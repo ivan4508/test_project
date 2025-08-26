@@ -1,0 +1,82 @@
+@use 'variables' as *;
+@use 'mixins' as *;
+
+.visible-mobile {
+  @include mobile-visibility;
+}
+
+.hidden-mobile {
+  @include mobile-hidden;
+}
+
+.apartments-page {
+  @media (max-width: $mobile-breakpoint) {
+    grid-template-columns: 1fr 318px;
+    padding: $mobile-padding;
+    margin-top: 0;
+    margin-bottom: 0;
+    gap: $mobile-gap;
+
+    .label {
+      margin-bottom: 24px;
+    }
+
+    .apartment-list__header {
+      display: flex;
+      gap: 0 20px;
+      box-shadow: none;
+    }
+
+    .apartment-list__body {
+      .apartment-item {
+        @include apartment-item-mobile;
+
+        .apartment-item__footage {
+          @include mobile-text;
+        }
+
+        .apartment-item__floor {
+          @include mobile-text;
+
+          .light {
+            font-weight: $mobile-font-weight-regular;
+          }
+        }
+
+        .apartment-item__type {
+          @include mobile-text;
+        }
+
+        .apartment-item__price {
+          @include mobile-text;
+        }
+
+        .apartment-item__info {
+          @include apartment-item-info-mobile;
+        }
+
+        .apartment-item__floor-plan {
+          @include floor-plan-mobile;
+        }
+      }
+    }
+
+    .apartment-filter {
+      padding: 20px 19px;
+      width: 318px;
+      justify-self: flex-end;
+
+      .filter-label {
+        font-size: 13px;
+      }
+
+      .range-value {
+        font-size: 14px;
+      }
+
+      .reset-button {
+        font-size: 13px;
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+.icon_arrow {
+  display: inline-block;
+  width: 7px;
+  height: 4px;
+
+  use {
+    fill: #0b1739;
+    transition: fill 0.2s ease;
+  }
+
+  &.rotate {
+    transform: rotate(180deg);
+  }
+
+  &.icon_arrow_active {
+    use {
+      fill: #3eb57c;
+    }
+  }
+}
+.icon_range {
+  &::after {
+    content: url("data:image/svg+xml;charset=UTF-8,%3csvg width='15' height='14' viewBox='0 0 15 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M7.58008 14C11.4461 14 14.5801 10.866 14.5801 7C14.5801 3.13401 11.4461 0 7.58008 0C3.71408 0 0.580078 3.13401 0.580078 7C0.580078 10.866 3.71408 14 7.58008 14Z' fill='%233EB57C'/%3e%3c/svg%3e ");
+  }
+}

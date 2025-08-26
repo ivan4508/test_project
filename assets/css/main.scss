@@ -1,0 +1,240 @@
+@use './icons.scss';
+@use 'variables' as *;
+@use 'mixins' as *;
+
+body {
+  font-family: 'PTRootUI', sans-serif;
+}
+
+// Main page styles
+.apartments-page {
+  @include apartments-grid;
+  max-width: $apartments-page-max-width;
+  margin: $apartments-page-margin;
+  gap: $apartments-page-gap;
+  padding: $apartments-page-padding;
+
+  .label {
+    @include label-text;
+    grid-area: label;
+    margin-top: 0;
+    margin-bottom: 48px;
+  }
+
+  .wrapp_arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .apartment-list__header-cell {
+    @include header-cell-text;
+  }
+
+  .apartment-list {
+    grid-area: list;
+
+    .apartment-list__header {
+      padding-bottom: 16px;
+    }
+
+    .apartment-list__body {
+      min-height: 60vh;
+    }
+
+    .apartment-item {
+      padding-top: 16px;
+      padding-bottom: 16px;
+
+      .apartment-item__type {
+        @include base-text;
+        font-weight: $font-weight-medium;
+      }
+
+      .apartment-item__footage {
+        @include base-text;
+        font-weight: $font-weight-regular;
+      }
+
+      .apartment-item__price {
+        @include base-text;
+        font-weight: $font-weight-regular;
+      }
+
+      .apartment-item__floor {
+        @include base-text;
+        font-weight: $font-weight-regular;
+      }
+    }
+  }
+
+  .light {
+    opacity: $light-opacity;
+  }
+
+  .apartment-list__load-more {
+    @include load-more-button;
+  }
+
+  .apartment-list__footer {
+    margin-top: 48px;
+  }
+}
+
+// ApartmentList component styles
+.apartment-list__header,
+.apartment-item {
+  @include apartment-list-grid;
+}
+
+.apartment-list__header-cell {
+  .sortable-content {
+    width: max-content;
+
+    &.active_sort {
+      color: $success-color;
+    }
+
+    &.sortable {
+      cursor: pointer;
+      user-select: none;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+  }
+}
+
+.apartment-list__loading,
+.apartment-list__error {
+  text-align: center;
+  padding: 2rem;
+}
+
+.apartment-list__error {
+  color: $error-color;
+}
+
+// ApartmentFilter component styles
+.apartment-filter {
+  width: $apartments-page-filter-width;
+  box-sizing: border-box;
+  grid-area: filter;
+  align-self: flex-start;
+  @include filter-gradient;
+  border-radius: $filter-border-radius;
+  padding: 40px;
+
+  .room-button {
+    @include room-button;
+  }
+
+  // FilterSection component styles
+  .filter-label {
+    @include filter-label-text;
+  }
+
+  .filter-section {
+    margin-bottom: 32px;
+
+    &:last-of-type {
+      margin-bottom: 24px;
+    }
+  }
+
+  .range-display {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+  }
+
+  .range-value {
+    @include range-value-text;
+  }
+
+  .price-value-min,
+  .price-value-max,
+  .footage-value-min,
+  .footage-value-max {
+    @include base-text;
+    font-weight: $font-weight-medium;
+  }
+
+  .range-slider {
+    position: relative;
+    height: 3px;
+    background: $slider-bg;
+    border-radius: $slider-border-radius;
+  }
+
+  .slider-input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 6px;
+    background: transparent;
+    pointer-events: none;
+    appearance: none;
+    z-index: 2;
+
+    &::-webkit-slider-thumb {
+      @include slider-thumb;
+    }
+
+    &::-moz-range-thumb {
+      @include slider-thumb;
+    }
+
+    &:first-child {
+      z-index: 1;
+    }
+
+    &:disabled {
+      cursor: not-allowed;
+
+      &::-webkit-slider-thumb {
+        @include slider-thumb-disabled;
+      }
+
+      &::-moz-range-thumb {
+        @include slider-thumb-disabled;
+      }
+    }
+  }
+
+  .range-slider::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: var(--left-pos, 0%);
+    height: 3px;
+    background: var(--slider-color, $slider-range);
+    border-radius: 3px;
+    z-index: 0;
+    width: calc(var(--right-pos, 100%) - var(--left-pos, 0%));
+    min-width: 6px;
+    transition: none;
+  }
+  .room-selection {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 22px;
+  }
+
+  .reset-button {
+    @include reset-button;
+  }
+
+  .reset-icon {
+    font-size: $reset-icon-font-size;
+  }
+}
+
+.visually-hidden {
+  @include visually-hidden;
+}
